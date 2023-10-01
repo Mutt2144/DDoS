@@ -1,0 +1,16 @@
+{
+  "name": "attack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "engines": {
+    "node": "13.^"
+  },
+  "scripts": {
+    "vitoria": "node main.js 500 https://www.prefeituradavitoria.pe.gov.br/portal/ 60000 600000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
