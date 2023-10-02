@@ -2,8 +2,6 @@ import fs from "fs"
 import url from "url"
 import fetch from "node-fetch"
 import config from "./config.js"
-import prompt from "prompt-sync"
-const prompt_in = prompt({ sigint: true });
 
 let count = process.argv[2];
 let urlToAttack = process.argv[3];

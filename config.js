@@ -1,5 +1,5 @@
 const config = {
-    "url": "https://www.bcb.gov.br",
+    "url": "http://government.ru/en/",
     "requests": 1000,
     "connectTimeLimit": 60000,
     "executionLimit": 100000,
